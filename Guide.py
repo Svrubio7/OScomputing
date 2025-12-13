@@ -1,1 +1,1 @@
-Create a python file for retarded 
+Create a python file 

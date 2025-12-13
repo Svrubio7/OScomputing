@@ -4,3 +4,4 @@ def exercise():
 print(exercise())
 
 print("Ready")
+print("you are getting the best score!")
